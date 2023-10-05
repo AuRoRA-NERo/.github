@@ -1,5 +1,5 @@
 
-![Logo do NERo](https://www.robotica.ufv.br/wp-content/uploads/2018/09/NERO-1024x264-1024x264.png)
+![Logo do NERo](https://i.imgur.com/0fxWTBQ.png)
 # About Aurora
 AuRoRA platform is a real-time mobile robot simulation and experimentation framework, hosted on MATLAB®.
 
